@@ -26,7 +26,7 @@ Perform basic data-quality checks using Pandas.
 
 Present the findings using clear and meaningful visualizations.
 
-🛠️ Tools & Technologies
+ Tools & Technologies
 
 Programming Language
 
